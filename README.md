@@ -1,7 +1,6 @@
-### Hi there 👋
 ### Hi there! 😁
 
-My name is Leonardo from Brazil (🇧🇷). I am studying Systems analysis and development (Análise e desenvolvimento de sistemas). I do open source projects to focus my learning, both front-end ande back-end. I'm still looking for a specific career to fall in love.
+My name is Leonardo from Brazil (🇧🇷). I am studying Computer Science (Ciência da Computação). I do open source projects to focus my learning, both front-end ande back-end. I'm still looking for a specific career to fall in love.
 
 In my free time I like to watch movies (🎞️) and series (📺), to read books (📚), to play RPG and games, to listen to music (🎵) and eventually I like to philosophize about life with a beer (🍺).
 
