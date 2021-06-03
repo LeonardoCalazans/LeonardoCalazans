@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Leonardo
 #### I am student in Computer Science
-![I am student in Computer Science](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am student in Computer Science]
 
 I do open source projects to focus my learning, both front-end ande back-end. I'm still looking for a specific career to fall in love.
 
