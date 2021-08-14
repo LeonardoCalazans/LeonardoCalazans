@@ -15,5 +15,6 @@ In my free time I like to watch movies (🎞️) and series (📺), to read book
 
 ![Profile views](https://gpvc.arturio.dev/leonardocalazans)
 
-
+<div>
 ![Snake animation](https://github.com/LeonardoCalazans/LeonardoCalazans/blob/output/github-contribution-grid-snake.svg)
+</div>
