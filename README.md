@@ -14,3 +14,6 @@ In my free time I like to watch movies (🎞️) and series (📺), to read book
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardocalazans&show_icons=true&count_private=true&theme=dracula)  
 
 ![Profile views](https://gpvc.arturio.dev/leonardocalazans)
+
+
+![Snake animation](https://github.com/LeonardoCalazans/LeonardoCalazans/blob/output/github-contribution-grid-snake.svg)
