@@ -19,7 +19,6 @@ In my free time I like to watch movies (🎞️) and series (📺), to read book
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png" title="Bootstrap" />
 <img src="https://img.icons8.com/color/48/000000/typescript.png" title="Typescript" />
 <img src="https://img.icons8.com/color/48/000000/javascript.png" title="Javascript" />
-<img src="https://img.icons8.com/color/48/000000/angularjs.png" title="Angular" />
 <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
 <img src="https://img.icons8.com/wired/48/000000/postman-api.png" title="Postman API" />
 <img src="https://img.icons8.com/metro/48/000000/mysql.png" title="MySQL" />
